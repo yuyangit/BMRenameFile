@@ -1,23 +1,23 @@
 # BMRenameFile
 
-'''
+```
 在一个目录下批量修改目录和文件夹
 
 1. 打开终端
 2. cd 需要处理的目录;
 3. BMRenameFile Test BM; 
 
-'''
+```
 
 #### 安装
 
-'''
+```
 运行install.command 进行安装
-'''
+```
 
 ### 命令使用
 
-'''
+```
 1. 简单方式
 替换当前目录下的所有文件名字
 
@@ -46,4 +46,4 @@ BMRenameFile 被替换的关键字 要替换的关键字 指定目录（完整�
 例子:
 	BMRenameFile Test BM -p /Users/helios/test -m 1;
 
-'''
+```
