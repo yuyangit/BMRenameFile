@@ -12,7 +12,7 @@
 #### 适用平台
 
 ```
-	Unix/Linux
+Unix/Linux
 ```
 
 
