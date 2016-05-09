@@ -1,0 +1,510 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rename",
+				"RenameType	class"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"def",
+				"defs	Method"
+			],
+			[
+				"colour",
+				"colourId"
+			],
+			[
+				"dec",
+				"getB64DecryptText"
+			],
+			[
+				"filename",
+				"file_name"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"bmdb",
+				"BMDBSession"
+			],
+			[
+				"cry",
+				"cryptor_text"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"tips",
+				"tipsobject1"
+			],
+			[
+				"and",
+				"Android"
+			],
+			[
+				"new",
+				"newInputList"
+			],
+			[
+				"__",
+				"__py_version2"
+			],
+			[
+				"__py",
+				"__py_version3"
+			],
+			[
+				"ou",
+				"outputText"
+			],
+			[
+				"trans",
+				"translate"
+			],
+			[
+				"g7",
+				"G7Translator"
+			],
+			[
+				"out",
+				"outputFile"
+			],
+			[
+				"outputfil",
+				"outputFile"
+			],
+			[
+				"G7",
+				"G7Translate"
+			],
+			[
+				"base",
+				"base64Decode"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"installpa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ip",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/yuyang/workspace/scripts/BMRenameFile"
+	],
+	"file_history":
+	[
+		"/usr/local/etc/renamefile.py",
+		"/Users/yuyang/workspace/demo/MRExample/Podfile",
+		"/Users/yuyang/workspace/demo/DemoDemo/Podfile",
+		"/Users/yuyang/workspace/project/Gyrfalcon/Gyrfalcon/Gyrfalcon/Gyrfalcon/configure/Results.py",
+		"/Users/yuyang/workspace/project/Gyrfalcon/Gyrfalcon/Gyrfalcon/Gyrfalcon/Globals.py",
+		"/Users/yuyang/workspace/demo/MagicalRecordDemo/Podfile",
+		"/Users/yuyang/workspace/project/Translate/Apple/OSX/Transcoding/Podfile",
+		"/Users/yuyang/bug/response.html",
+		"/Users/yuyang/bug/bug.txt",
+		"/Users/yuyang/test.html",
+		"/Users/yuyang/workspace/project/Doji/test/Doji_iOS/Doji/renamefile.py",
+		"/Users/yuyang/renamefile.py",
+		"/Users/yuyang/workspace/project/Doji/Doji_iOS/Podfile",
+		"/Users/yuyang/workspace/project/Doji/Doji_iOS/Doji/Podfile.lock",
+		"/Users/yuyang/workspace/gao7/gao7git/TDProducts/tdvrvideo/Podfile.lock",
+		"/Users/yuyang/workspace/gao7/gao7git/TDModules/tddownloader/TDDownloader.podspec",
+		"/Users/yuyang/workspace/project/DOne/code/Apple/trunk/done_apple/DOne/Podfile",
+		"/Users/yuyang/workspace/project/MBGit/MBSDK/MBCamera/README.md",
+		"/Users/yuyang/workspace/project/MBGit/MBSDK/MBCamera/MBCamera/README.md",
+		"/Users/yuyang/workspace/project/Foreigner/MBForeigner/Web/README.md",
+		"/Users/yuyang/workspace/project/Foreigner/MBForeigner/UI/README.md",
+		"/Users/yuyang/workspace/project/Foreigner/MBForeigner/iOS/README.md",
+		"/Users/yuyang/workspace/project/Foreigner/MBForeigner/Document/README.md",
+		"/Users/yuyang/workspace/project/Foreigner/MBForeigner/Android/README.md",
+		"/Users/yuyang/workspace/project/Foreigner/MBForeigner/iOS/MBForeigner/Podfile",
+		"/Users/yuyang/.ssh/id_rsa.pub",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/BMPlatform/main/bmadmin/bmadmin/settings.py",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/template/home/contact.html",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/template/home/about.html",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/BMPlatform/main/site/Index/BMIndexReqHandlers.py",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/BMPlatform/profile/settings/web/BMURLs.py",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/template/home/product_list.html",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/template/home/single.html",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/template/base/header.html",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/template/base/nav_header.html",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/BMPlatform/main/site/Index/BMProductListReqHandlers.py",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/template/localization/index.html",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/template/base/footer.html",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/BMPlatform/main/site/Transform/BMTransformReqHandlers.py",
+		"/Users/yuyang/Library/Application Support/Karabiner/private.xml",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/BMPlatform/profile/settings/BMSettings.py",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/template/home/transcode.html",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/profile/nginx/bmplatform/bmplatform.conf.template",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/BMPlatform/main/site/Feedback/BMFeedbackReqHandlers.py",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/log/supervisor/out.log",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/BMPlatform/main/bmadmin/Feedback/models.py",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/Transcoding.sublime-project",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/BMPlatform/profile/BMServices.py",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/profile/supervisor/supervisor.conf",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/profile/uwsgi/bmadmin_profile.xml",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/shell/platforms/Darwin/BMPlatformInitial.command",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/shell/platforms/Darwin/BMPlatformShell.command",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/shell/platforms/Darwin/BMPlatformStart.command",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/shell/platforms/Darwin/BMPlatformStop.command",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/shell/platforms/Darwin/tools/bmplatformshell.py",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/shell/platforms/Darwin/tools/djangoinitial.py",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/shell/platforms/Linux/BMPlatformInitial.command",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/shell/platforms/Linux/BMPlatformShell.command",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/shell/platforms/Linux/BMPlatformStart.command",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/shell/platforms/Linux/BMPlatformStop.command",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/shell/platforms/Linux/tools/bmplatformshell.py",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/shell/platforms/Linux/tools/djangoinitial.py",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/BMPlatform/main/bmadmin/Index/migrations/0001_initial.py",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/log/django/django.log",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/log/BMPlatform.log",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/BMPlatform/main/site/Common/BMAPIReqHandlers.py",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/BMPlatform/main/site/Common/__init__.py",
+		"/usr/local/lib/python3.4/site-packages/tornado/__init__.py",
+		"/Users/yuyang/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/yuyang/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/yuyang/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/Users/yuyang/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/profile/nginx/nginx.conf",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/profile/nginx/bmplatform/bmplatform.conf",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/BMPlatform/BMPlatforms.py",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/BMPlatform/BMGlobals.py",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/Transcoding.sublime-workspace",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/BMPlatform/__init__.py",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/BMPlatform/profile/__init__.py",
+		"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/BMPlatform/BMPlatform/BMPlatforms.py",
+		"/Users/yuyang/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/yuyang/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/yuyang/workspace/project/DOne/code/Web/svn/D1Web/trunk/web/DOne/BMPlatform/BMPlatform/main/bmadmin/bmadmin/settings.py",
+		"/Users/yuyang/workspace/git/gao7ios/G7Platform/G7Platform/workspace/shell/post-to-pgyer.py",
+		"/Users/yuyang/workspace/git/gao7ios/G7Platform/G7Platform/G7Platform/main/g7admin/Account/models.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/main/site/Colour/BMColourReqHandlers.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/main/site/OperationHistory/BMOperationHistoryReqHandlers.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/main/site/Common/BMReqHandlers.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/main/site/Common/BMAPIReqHandlers.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/main/bmadmin/Account/admin.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/profile/settings/web/BMURLs.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/main/bmadmin/Colour/models.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/workspace/shell/BMPlatformInitial.command",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/main/bmadmin/List/models.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/main/site/Account/BMLoginReqHandlers.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/main/site/Account/BMRegisterReqHandlers.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/workspace/log/BMPlatform.log",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/workspace/log/supervisor/out.log",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/workspace/log/supervisor/tornado.log",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/core/results/BMResultAsistances.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/core/tool/cryptor/BMCryptorManagers.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/workspace/log/django/django.log",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/main/site/Colour/__init__.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/profile/settings/web/BMResults.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/main/site/List/BMListReqHandlers.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/main/bmadmin/Colour/admin.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/main/bmadmin/bmadmin/settings.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/main/bmadmin/Color/models.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/workspace/shell/tools/bmplatformshell.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/workspace/shell/BMPlatformShell.command",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/profile/BMServices.py",
+		"/Users/yuyang/workspace/project/搜壶/SHSouhoo/SHSouhoo/Resource/Assets.xcassets/BrandAsset.launchimage/Contents.json",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/profile/settings/BMSettings.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/core/tool/cryptor/BMCryptor.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/main/site/Account/BMUserSystems.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/BMPlatform/core/database/BMDBSession.py",
+		"/Users/yuyang/workspace/gao7/code/G7Framework/G7UDK/1.2/README.md",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/template/test/test.html",
+		"/Users/yuyang/workspace/git/gao7ios/G7Platform/G7Platform.sublime-project",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/workspace/test/upload.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/supervisord.pid",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/BMPlatform/workspace/log/BMPlatform.log",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/BMPlatform/workspace/log/supervisor/tornado.log",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/BMPlatform/BMPlatform/main/site/Account/BMUserSystems.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/web.sublime-project",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/BMPlatform/BMPlatform/BMGlobals.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/BMPlatform/BMPlatform/profile/BMServices.py",
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/BMPlatform/BMPlatform/main/site/Account/BMUserReqHandlers.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"python3",
+			"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/shell",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"allow",
+			"transform_options",
+			"/usr/local/bin/python3",
+			"python3",
+			"ec2-user",
+			"/usr/local/bin/pip3",
+			"/usr/local/bin/python3",
+			"pep8_ignore",
+			"complete_parameters",
+			"python",
+			"setting",
+			"python",
+			"BMServices",
+			"python",
+			"G7",
+			"httpHeadersJson",
+			"responseDataText",
+			"resultErrorDataWrapperToJson",
+			"responseWrite",
+			"data",
+			"file_name",
+			"operationHistory",
+			"BMDBManagers",
+			"bmdbmanager",
+			"bmdbmanagers",
+			"base64Decode",
+			"cryptor_types",
+			"***cryptor***",
+			"getB64DecryptText",
+			"base64Decode",
+			"getB64DecryptText",
+			"startServer",
+			"Tornado-Server Starts On ",
+			"tornadoServerStart",
+			"Commons",
+			"Records",
+			"Lists",
+			"Indexs",
+			"Commons",
+			"Accounts",
+			"debug",
+			"g7",
+			"BM",
+			"group",
+			"djangoload",
+			"print",
+			"g7",
+			"G7",
+			"g7",
+			"G7",
+			"Gao7",
+			"demo",
+			"backup",
+			"python ",
+			"except",
+			"g7",
+			"<<<",
+			"===",
+			"web",
+			"iOS",
+			"code",
+			"print",
+			"totext",
+			"fromtext",
+			">>>",
+			"<<<",
+			"=="
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"python3",
+			"/usr/local/bin/python3",
+			"pip3",
+			"python3",
+			"Common",
+			"bm",
+			"BM",
+			"frameworks",
+			"tags"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "BMRenameFile.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"bmserve",
+				"BMPlatform/profile/BMServices.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
