@@ -26,6 +26,7 @@
 
 ```
 1. 简单方式
+
 替换当前目录下的所有文件名字
 
 BMRenameFile 被替换的关键字 要替换的关键字;
@@ -33,16 +34,20 @@ BMRenameFile 被替换的关键字 要替换的关键字;
 例子:
 	BMRenameFile Test BM;
 
+```
 
+```
 2. 指定目录
+
 替换指定目录下所有符合规则的文件
 
 BMRenameFile 被替换的关键字 要替换的关键字 指定目录（完整路径）;
 
 例子:
 	BMRenameFile Test BM -p /Users/helios/test;
+```
 
-
+```
 3. 处理方式
 
 主要有以下3种处理方式：
