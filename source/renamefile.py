@@ -4,9 +4,6 @@ import os
 import re
 import sys, getopt
 
-
-
-
 class RenameMode:
 
 	onlyFile=0
@@ -17,7 +14,6 @@ def renamefiles(origText, targetText, currentPath="", renameType=0):
 
 	if os.path.exists(currentPath) == False:
 		currentPath = os.getcwd()
-	print(currentPath, renameType)
 	print("处理中...")
 	for dirMap in os.walk(currentPath):
 		if renameType == RenameMode.onlyFile:
@@ -44,7 +40,6 @@ def renamefiles(origText, targetText, currentPath="", renameType=0):
 				if origText in dirName:
 					resultName = dirName.replace(origText, targetText)
 					resultPath = os.path.realpath(dirMap[0])+"/"+resultName
-					print(dirPath, resultPath)
 					os.rename(dirPath, resultPath)
 					
 			for fileName in dirMap[2]:
@@ -75,7 +70,6 @@ if __name__ == "__main__":
 						help="替换模式")
 
 	args = parser.parse_args()
-	print(args)
 	org_string = ""
 	if args.org != None:
 		org_string = args.org

@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"cu",
+				"currentPath	param"
+			],
+			[
+				"cur",
+				"currentPath	statement"
+			],
+			[
 				"rename",
 				"RenameType	class"
 			],
@@ -103,10 +111,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 47.0,
-		"last_filter": "",
+		"height": 167.0,
+		"last_filter": "instal",
 		"selected_items":
 		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"install pac",
 				"Package Control: Install Package"
@@ -114,10 +130,6 @@
 			[
 				"remove",
 				"Package Control: Remove Package"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"Package Control: ",
@@ -148,7 +160,7 @@
 				"Snippet: Lorem ipsum"
 			]
 		],
-		"width": 593.0
+		"width": 304.0
 	},
 	"console":
 	{
@@ -170,11 +182,19 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/yuyang/workspace/scripts/BMRenameFile"
+		"/Users/yuyang/workspace/scripts/BMRenameFile",
+		"/Users/yuyang/workspace/scripts/BMRenameFile/source"
 	],
 	"file_history":
 	[
+		"/Users/yuyang/workspace/scripts/BMRenameFile/install.command",
+		"/Users/yuyang/workspace/scripts/BMRenameFile/source/renamefile.py",
+		"/Users/yuyang/workspace/scripts/BMRenameFile/source/BMRenameFile",
+		"/Users/yuyang/workspace/scripts/BMRenameFile/README.md",
+		"/Users/yuyang/workspace/scripts/BMRenameFile/install.sh",
 		"/usr/local/etc/renamefile.py",
+		"/Users/yuyang/workspace/scripts/BMRenameFile/uninstall.command",
+		"/Users/yuyang/workspace/scripts/BMRenameFile/BMRenameFile.sublime-project",
 		"/Users/yuyang/workspace/demo/MRExample/Podfile",
 		"/Users/yuyang/workspace/demo/DemoDemo/Podfile",
 		"/Users/yuyang/workspace/project/Gyrfalcon/Gyrfalcon/Gyrfalcon/Gyrfalcon/configure/Results.py",
@@ -294,24 +314,19 @@
 		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/template/test/test.html",
 		"/Users/yuyang/workspace/git/gao7ios/G7Platform/G7Platform.sublime-project",
 		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/workspace/test/upload.py",
-		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/supervisord.pid",
-		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/BMPlatform/workspace/log/BMPlatform.log",
-		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/BMPlatform/workspace/log/supervisor/tornado.log",
-		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/BMPlatform/BMPlatform/main/site/Account/BMUserSystems.py",
-		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/web.sublime-project",
-		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/BMPlatform/BMPlatform/BMGlobals.py",
-		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/BMPlatform/BMPlatform/profile/BMServices.py",
-		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/BMPlatform/BMPlatform/main/site/Account/BMUserReqHandlers.py"
+		"/Users/yuyang/workspace/project/DOne/code/Web/trunk/web/DOne/BMPlatform/supervisord.pid"
 	],
 	"find":
 	{
-		"height": 23.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
 		"height": 93.0,
 		"where_history":
 		[
+			"```\n<current file>",
+			"```\n",
 			"",
 			"python3",
 			"/Users/yuyang/workspace/project/Translate/Web/transcoding/trunk/BMPlatform/workspace/shell",
@@ -323,6 +338,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"'''",
+			"pwd",
 			"allow",
 			"transform_options",
 			"/usr/local/bin/python3",
@@ -397,6 +414,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"```",
 			"python3",
 			"/usr/local/bin/python3",
 			"pip3",
